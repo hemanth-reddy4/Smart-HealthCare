@@ -1,0 +1,5 @@
+Django>=4.1
+scikit-learn   # For Naive Bayes algorithm
+google-auth    # For Gmail API authentication
+google-auth-oauthlib  # To handle OAuth for Gmail
+google-auth-httplib2  # Provides HTTP client for Gmail API
